@@ -1,19 +1,16 @@
-# Rafał Szołtysik
+### Building software, products and systems
 
-I build software, integrations and automation around real business problems.
+Implementation work in e-commerce, plus integrations, APIs, webhooks and automation. Independent products on the side when the problem is worth shipping.
 
-## What I work on
+**Independent**
+- [Squimbo](https://github.com/rafalszoltysik/Squimbo) - Discord Activity party game
+- [PlayGrid](https://playgrid.app) - play-together platform (Discord Activity + bot, library sync, sessions)
+- [DeadManPing](https://github.com/rafalszoltysik/DeadManPing) - archived cron / backup monitoring product
 
-- E-commerce implementation and business process work
-- Integrations, APIs, webhooks, automation
-- Independent products (Squimbo, PlayGrid, and earlier DeadManPing)
-- Software and systems shaped around real constraints
+**Also public**
+- [strokes](https://github.com/rafalszoltysik/strokes) - university ML coursework (stroke risk prediction pipeline)
+- [examples](https://github.com/rafalszoltysik/examples) - DeadManPing integration samples
 
-Currently Implementation Specialist at Base Polska. Studying Computer Science (B.Eng.) at WSB Merito Chorzów.
+Day job: Implementation Specialist at Base Polska. Studying Computer Science (B.Eng.) at WSB Merito Chorzów.
 
-## Links
-
-- Site: [rafalszoltysik.pl](https://rafalszoltysik.pl)
-- GitHub: [github.com/rafalszoltysik](https://github.com/rafalszoltysik)
-- LinkedIn: [linkedin.com/in/rafał-szołtysik-a6064824a](https://www.linkedin.com/in/rafa%C5%82-szo%C5%82tysik-a6064824a)
-- Email: [rafal.szoltysik1@gmail.com](mailto:rafal.szoltysik1@gmail.com)
+Site with case studies: [rafalszoltysik.pl](https://rafalszoltysik.pl)
