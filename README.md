@@ -1,5 +1,3 @@
-# Rafał Szołtysik
-
 ### I build software, integrations and automation.
 
 I'm a **TypeScript developer** working across software development, e-commerce systems and business processes.
